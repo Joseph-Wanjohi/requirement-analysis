@@ -71,7 +71,7 @@
     Use Case Diagrams are UML models that illustrate how “actors” (users or external systems) interact with the software to achieve goals. They provide a high-level, visual overview of system scope, improve communication with non-technical stakeholders, and serve as a foundation for detailed design.
   </p>
   <p>
-    <img src="use-case.drawio.svg" alt="Booking System Use Case Diagram" />
+    <img src="alx-booking-uc.png" alt="Booking System Use Case Diagram" />
   </p>
   <h3>Primary Actors &amp; Use Cases</h3>
   <ul>
